@@ -1,0 +1,8 @@
+﻿  main.cpp
+  cvui.h: implementation skipped. Ensure one of your C++ files included cvui.h after a #define CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+C:\Leo\FACULDADE\Fundamentos de processamento de imagens\trabalho_um\trabalho_um\trabalho_um\main.cpp(76,61): warning C4244: '=': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=uchar
+          ]
+  trabalho_um.vcxproj -> C:\Leo\FACULDADE\Fundamentos de processamento de imagens\trabalho_um\trabalho_um\x64\Debug\trabalho_um.exe
